@@ -1,0 +1,40 @@
+{
+  "name": "hubot-poco",
+  "version": "1.0.0",
+  "description": "South African Postal Code lookup integration with Hubot",
+  "main": "index.coffee",
+  "author": {
+    "name": "Johan Meiring",
+    "email": "johanmeiring@gmail.com",
+    "url": "https://github.com/johanmeiring"
+  },
+  "keywords": [
+    "hubot",
+    "hubot-scripts",
+    "poco",
+    "postal",
+    "south africa"
+  ],
+  "license": "MIT",
+  "scripts": {
+    "test": "script/test"
+  },
+  "homepage": "https://github.com/johanmeiring/hubot-poco/",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/johanmeiring/hubot-poco.git"
+  },
+  "bugs": {
+    "url": "https://github.com/johanmeiring/hubot-poco/issues"
+  },
+  "dependencies": {
+    "hubot": ">= 2.4.0",
+    "coffee-script": "~1.6"
+  },
+  "devDependencies": {
+    "mocha": "*",
+    "chai": "*",
+    "sinon-chai": "*",
+    "sinon": "*"
+  }
+}
