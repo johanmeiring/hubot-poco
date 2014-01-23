@@ -2,7 +2,9 @@
 #   South African Postal Code lookup
 #
 # Dependencies:
-#   None
+#   "hubot-podbaydoors": "1.0.x"
+#   "hubot-poco": "1.0.x"
+#
 #
 # Configuration:
 #   None
