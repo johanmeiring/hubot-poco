@@ -1,6 +1,6 @@
 # hubot-poco
 
-Hubot integration with South African postal code lookup service, Poco.
+Hubot integration with South African postal code lookup service, Poco (http://poco.co.za).
 
 ## Installation
 
